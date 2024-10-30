@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .wp-custom-heading {
+ 	background-color: #006699;color: #fff;padding: 1%;margin: 10px 20px 10px 2px;
+ }
+ .wp-custom-heading h2{
+ 	.text-align: left;color: #fff;margin-bottom: 0;margin-top: 4px;text-transform: uppercase;
+ }
+ .wp-custom-heading p{
+ margin: 0;font-size: 11px;text-align: left;padding: 5px 1px;
+}
+.inquiry-listing_page_wp_inquiry_settings form h2{
+	background: #e2e2e2;
+	display: inline-block;
+	padding: 1% 3%;
+	color: #000 !important;
+}
+textarea.regular-text{width: 40%;height: 90px;}
+input#email {
+	padding: 1%;
+	width: 40%;
+	margin-right: 14px;
+}
